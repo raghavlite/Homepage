@@ -15,7 +15,7 @@
 			sectionTransitions: true,
 
 		// Fade in speed (in ms).
-			fadeInSpeed: 100
+			fadeInSpeed: 1000
 
 	};
 
