@@ -137,7 +137,7 @@
 					$('.main.style2')
 						.scrollwatch({
 							delay:		50,
-							range:		0.5,
+							range:		0.6,
 							anchor:		'center',
 							init:		function(t) { t.addClass('inactive'); },
 							on:			function(t) { t.removeClass('inactive'); },

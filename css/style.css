@@ -557,16 +557,39 @@
 
 					.main.style2.left .content {
 						
+							/* This is a single-line comment 
+
+								this is the part to be  mdified
+
+
+
+							*/
+
 						width : 65%;
 						left: 15%;
 
 					}
 
 				.main.style2.right {
+					/*left :-38%;*/
 				}
 
 					.main.style2.right .content {
+						
+
+								/* This is a single-line comment 
+
+								this is the part to be  mdified
+
+									width can be changed here
+
+							*/
+
+							/*margin: 5%,5%,5%;*/
 						right : 65%;
+						/*width :10%;*/
+						/*left :45%;*/
+
 					}
 
 				.main.style2.inactive {
@@ -576,7 +599,7 @@
 					}
 
 						.main.style2.inactive.left .content {
-							left: -35%;
+							left: -45%;
 						}
 
 						.main.style2.inactive.right .content {
